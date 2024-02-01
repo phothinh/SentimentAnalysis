@@ -14,7 +14,7 @@
 		069B12BC2B4EE2690058C22C /* SentimentAnalysisTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069B12BB2B4EE2690058C22C /* SentimentAnalysisTests.swift */; };
 		069B12C62B4EE2690058C22C /* SentimentAnalysisUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069B12C52B4EE2690058C22C /* SentimentAnalysisUITests.swift */; };
 		069B12C82B4EE2690058C22C /* SentimentAnalysisUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069B12C72B4EE2690058C22C /* SentimentAnalysisUITestsLaunchTests.swift */; };
-		069B12D52B4EEC5B0058C22C /* SentimentAnalysis 1.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 069B12D42B4EEC5B0058C22C /* SentimentAnalysis 1.mlmodel */; };
+		BB36B07E2B6C3397009AC442 /* SentimentAnalysis_1.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = BB36B07D2B6C3397009AC442 /* SentimentAnalysis_1.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,7 +45,7 @@
 		069B12C12B4EE2690058C22C /* SentimentAnalysisUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SentimentAnalysisUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		069B12C52B4EE2690058C22C /* SentimentAnalysisUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SentimentAnalysisUITests.swift; sourceTree = "<group>"; };
 		069B12C72B4EE2690058C22C /* SentimentAnalysisUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SentimentAnalysisUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		069B12D42B4EEC5B0058C22C /* SentimentAnalysis 1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = "SentimentAnalysis 1.mlmodel"; path = "../../../Downloads/SentimentAnalysis 1.mlmodel"; sourceTree = "<group>"; };
+		BB36B07D2B6C3397009AC442 /* SentimentAnalysis_1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = SentimentAnalysis_1.mlmodel; path = ../../../../../Downloads/SentimentAnalysis_1.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,7 +96,7 @@
 		069B12A92B4EE2660058C22C /* SentimentAnalysis */ = {
 			isa = PBXGroup;
 			children = (
-				069B12D42B4EEC5B0058C22C /* SentimentAnalysis 1.mlmodel */,
+				BB36B07D2B6C3397009AC442 /* SentimentAnalysis_1.mlmodel */,
 				069B12AA2B4EE2660058C22C /* SentimentAnalysisApp.swift */,
 				069B12AC2B4EE2660058C22C /* ContentView.swift */,
 				069B12AE2B4EE2690058C22C /* Assets.xcassets */,
@@ -261,7 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				069B12AD2B4EE2660058C22C /* ContentView.swift in Sources */,
-				069B12D52B4EEC5B0058C22C /* SentimentAnalysis 1.mlmodel in Sources */,
+				BB36B07E2B6C3397009AC442 /* SentimentAnalysis_1.mlmodel in Sources */,
 				069B12AB2B4EE2660058C22C /* SentimentAnalysisApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
